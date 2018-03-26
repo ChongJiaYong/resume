@@ -38,7 +38,7 @@
     <h3 class="panel-title"><strong>Personal Statement</strong></h3>
     </div>
         <div class="panel-body">
-        <div class="col-md-2"><img src="JY Profile.jpg" height = "100"></div>
+        <div class="col-md-2"><img src="Images/JY Profile.jpg" height = "100"></div>
         <div class="col-md-10">
             <p>My main objectives currently is to gain as much experience as I can in my working field and obtain as many skills as I can to help support that objective. I'm currently highly career motivated and am open to learning new skills and receiving contructive criticism from others.</p>
         </div>

@@ -38,7 +38,7 @@
     <h3 class="panel-title"><strong>Education</strong></h3>
     </div>
         <div class="panel-body">
-            <div class="col-md-3"><img src="download.png" height="50"></div>
+            <div class="col-md-3"><img src="Images/download.png" height="50"></div>
             <div class="col-md-9">
                 <strong>The Australia National University</strong></br>
                 Bachelor's of Commerce &#40;Accounting&#41;</br>
