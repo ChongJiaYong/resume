@@ -20,7 +20,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="resume.html">Jia Yong Chong</a>
+      <a class="navbar-brand" href="resume.php">Jia Yong Chong</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
